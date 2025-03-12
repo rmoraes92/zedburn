@@ -1,0 +1,7 @@
+id = "zedburn"
+name = "Zedburn"
+version = "0.1.0"
+schema_version = 1
+authors = ["Ramon Moraes <ramonmoraes.foss@gmail.com>"]
+description = "Zenburn port to Zed Editor"
+repository = "https://github.com/rmoraes92/zedburn"
